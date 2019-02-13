@@ -1,0 +1,3864 @@
+1               #Harvest Regime ID#
+1               #Harvest Regime Label#
+1               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.182              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+43              #Harvest Regime Label#
+1               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.182              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+2               #Harvest Regime Label#
+2               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.229              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+44              #Harvest Regime Label#
+2               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.229              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+3               #Harvest Regime Label#
+3               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.165              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+45              #Harvest Regime Label#
+3               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.165              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+4               #Harvest Regime Label#
+4               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.126              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+46              #Harvest Regime Label#
+4               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.126              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+5               #Harvest Regime Label#
+5               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.215              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+47              #Harvest Regime Label#
+5               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.215              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+6               #Harvest Regime Label#
+6               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.061              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+48              #Harvest Regime Label#
+6               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.061              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+7               #Harvest Regime Label#
+7               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.038              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+49              #Harvest Regime Label#
+7               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.038              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+8               #Harvest Regime Label#
+8               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.084              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+50              #Harvest Regime Label#
+8               #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.084              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+11              #Harvest Regime Label#
+11              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.148              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+53              #Harvest Regime Label#
+11              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.148              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+13              #Harvest Regime Label#
+13              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.025              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+55              #Harvest Regime Label#
+13              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.025              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+16              #Harvest Regime Label#
+16              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.048              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+58              #Harvest Regime Label#
+16              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.048              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+23              #Harvest Regime Label#
+23              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.224              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+65              #Harvest Regime Label#
+23              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.224              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+24              #Harvest Regime Label#
+24              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.176              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+66              #Harvest Regime Label#
+24              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.176              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+25              #Harvest Regime Label#
+25              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.083              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+67              #Harvest Regime Label#
+25              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.083              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+26              #Harvest Regime Label#
+26              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.198              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+68              #Harvest Regime Label#
+26              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.198              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+27              #Harvest Regime Label#
+27              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.054              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+69              #Harvest Regime Label#
+27              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.054              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+28              #Harvest Regime Label#
+28              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.209              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+70              #Harvest Regime Label#
+28              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.209              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+29              #Harvest Regime Label#
+29              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.126              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+71              #Harvest Regime Label#
+29              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.126              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+30              #Harvest Regime Label#
+30              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.132              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+72              #Harvest Regime Label#
+30              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.132              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+31              #Harvest Regime Label#
+31              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.083              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+73              #Harvest Regime Label#
+31              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.083              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+32              #Harvest Regime Label#
+32              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.034              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+74              #Harvest Regime Label#
+32              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.034              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+33              #Harvest Regime Label#
+33              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.042              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+75              #Harvest Regime Label#
+33              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.042              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+34              #Harvest Regime Label#
+34              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.051              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+76              #Harvest Regime Label#
+34              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.051              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+36              #Harvest Regime Label#
+36              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.129              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+78              #Harvest Regime Label#
+36              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.129              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+37              #Harvest Regime Label#
+37              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.129              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+79              #Harvest Regime Label#
+37              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.129              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+38              #Harvest Regime Label#
+38              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.167              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+80              #Harvest Regime Label#
+38              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.167              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+41              #Harvest Regime Label#
+41              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.103              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+83              #Harvest Regime Label#
+41              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.103              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+43              #Harvest Regime Label#
+43              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.165              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+85              #Harvest Regime Label#
+43              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.165              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+44              #Harvest Regime Label#
+44              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.165              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+86              #Harvest Regime Label#
+44              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.165              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+46              #Harvest Regime Label#
+46              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.163              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+88              #Harvest Regime Label#
+46              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.163              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+47              #Harvest Regime Label#
+47              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.079              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+89              #Harvest Regime Label#
+47              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.079              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+48              #Harvest Regime Label#
+48              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.059              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+90              #Harvest Regime Label#
+48              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.059              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+49              #Harvest Regime Label#
+49              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.053              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+91              #Harvest Regime Label#
+49              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.053              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+50              #Harvest Regime Label#
+50              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.041              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+92              #Harvest Regime Label#
+50              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.041              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+51              #Harvest Regime Label#
+51              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.147              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+93              #Harvest Regime Label#
+51              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.147              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+52              #Harvest Regime Label#
+52              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.039              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+94              #Harvest Regime Label#
+52              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.039              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+53              #Harvest Regime Label#
+53              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.039              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+95              #Harvest Regime Label#
+53              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.039              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+54              #Harvest Regime Label#
+54              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.036              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+96              #Harvest Regime Label#
+54              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.036              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+55              #Harvest Regime Label#
+55              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.086              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+97              #Harvest Regime Label#
+55              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.086              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+56              #Harvest Regime Label#
+56              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.154              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+98              #Harvest Regime Label#
+56              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.154              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+61              #Harvest Regime Label#
+61              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.196              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+103              #Harvest Regime Label#
+61              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.196              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+62              #Harvest Regime Label#
+62              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.045              #Proportion of Management Area to Harvest#
+6.8              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+
+1               #Harvest Regime ID#
+104              #Harvest Regime Label#
+62              #Management Area#
+2               #Rotation Age#
+1               #Rank alrogithm#
+10              #Entry Year#
+10              #Repeat Interval#
+1.0              #Minimum Stand Harvest Basal Area#
+1               #0 - Remove smallest trees first, 1 - Remove largest trees first#
+0.045              #Proportion of Management Area to Harvest#
+18.4             #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#flag for harvest, flag for planting, number of trees planted#
+2 1 0 0 #ShortleafPine#
+4 1 0 0 #SlashPine#
+3 1 0 0 #LongleafPine#
+1 1 0 0 #LoblollyPine#
+24 1 0 0 #BaldCypress#
+21 1 0 0 #RedMaple#
+22 1 0 0 #SugarMaple#
+16 1 0 0 #MockHickory#
+25 1 0 0 #SugarBerry#
+17 1 0 0 #WhiteAsh#
+18 1 0 0 #GreenAsh#
+19 1 0 0 #SweetGum#
+20 1 0 0 #YellowPoplar#
+27 1 0 0 #WaterTupelo#
+26 1 0 0 #BlackGum#
+28 1 0 0 #SwampTupelo#
+15 1 0 0 #BlackCherry#
+5 1 0 0 #WhiteOak#
+9 1 0 0 #SouthernRedOak#
+10 1 0 0 #CherryBarkOak#
+14 1 0 0 #LaurelOak#
+11 1 0 0 #OvercupOak#
+13 1 0 0 #WaterOak#
+12 1 0 0 #WillowOak#
+6 1 0 0 #NorthernRedOak#
+7 1 0 0 #PostOak#
+8 1 0 0 #BlackOak#
+29 1 0 0 #WingedElm#
+23 1 0 0 #AmericanElm#
+30 1 0 0 #PseudoSPP#
+0 #Number of reentry events#
+

@@ -1,0 +1,183 @@
+#I. select species and attributes to output for all age cohorts#            
+# TPA BA BIO IV SEEDS GSO #  
+redmaple Y Y Y N N N
+sugarmaple Y Y Y N N N    
+yellowpop Y Y Y N N N              
+blackcherry Y Y Y N N N                         
+amelm Y Y Y N N N                    
+whiteash Y Y Y N N N      
+whiteoak Y Y Y N N N   
+americanbeech Y Y Y N N N   
+sassafras Y Y Y N N N             
+northredoak Y Y Y N N N             
+blackoak Y Y Y N N N                  
+shagbark Y Y Y N N N          
+chestoak Y Y Y N N N       
+bigtoothaspen Y Y Y N N N              
+blackgum Y Y Y N N N                                                        
+slipperyelm Y Y Y N N N              
+blackwalnut Y Y Y N N N                    
+pignut Y Y Y N N N          
+sycamore Y Y Y N N N          
+virginiapine Y Y Y N N N
+treeheaven Y Y Y N N N                      
+mockernut Y Y Y N N N               
+ambasswood Y Y Y N N N                   
+scarletoak Y Y Y N N N                        
+yellowbuckeye Y Y Y N N N                        
+hemlock Y Y Y N N N
+pitchpine Y Y Y N N N                         
+southredoak Y Y Y N N N              
+pseudosp Y Y Y N N N                    
+bhoneysuckle Y Y Y N N N                                  
+           
+#TPA BA Bio Car GSO#      
+Total  Y Y Y N N      
+           
+N #II. select species to attibutes to output for specific age cohorts# 
+          
+# TPA BA Bio IV#       
+redmaple Y Y Y N
+sugarmaple Y Y Y N  
+yellowpop Y Y Y N              
+blackcherry Y Y Y N                         
+amelm Y Y Y N                    
+whiteash Y Y Y N       
+whiteoak Y Y Y N   
+americanbeech Y Y Y N  
+sassafras Y Y Y N              
+northredoak Y Y Y N              
+blackoak Y Y Y N                 
+shagbark Y Y Y N          
+chestoak Y Y Y N        
+bigtoothaspen Y Y Y N               
+blackgum Y Y Y N                                                         
+slipperyelm Y Y Y N               
+blackwalnut Y Y Y N                     
+pignut Y Y Y N           
+sycamore Y Y Y N           
+virginiapine Y Y Y N 
+treeheaven Y Y Y N                       
+mockernut Y Y Y N               
+ambasswood Y Y Y N                    
+scarletoak Y Y Y N                        
+yellowbuckeye Y Y Y N                         
+hemlock Y Y Y N 
+pitchpine Y Y Y N                         
+southredoak Y Y Y N               
+pseudosp Y Y Y N                     
+bhoneysuckle Y Y Y N 
+    
+#TPA BA Bio Car RD#       
+Total N N N N N      
+           
+#select specific age cohorts to output#      
+redmaple 0
+sugarmaple 0
+yellowpop 0           
+blackcherry 0                         
+amelm 0                    
+whiteash 0       
+whiteoak 0   
+americanbeech 0  
+sassafras 0              
+northredoak 0              
+blackoak 0                 
+shagbark 0          
+chestoak 0        
+bigtoothaspen 0               
+blackgum 0                                                         
+slipperyelm 0              
+blackwalnut 0                    
+pignut 0           
+sycamore 0           
+virginiapine 0 
+treeheaven 0                       
+mockernut 0               
+ambasswood 0                    
+scarletoak 0                        
+yellowbuckeye 0                         
+hemlock 0 
+pitchpine 0                        
+southredoak 0               
+pseudosp 0                    
+bhoneysuckle 0
+         
+#III. output age distribution for each species# 
+N/A
+
+#IV Mortality for each species#
+N
+#Fire Fuel Harvest Succession#
+Y Y Y Y 
+
+#DTN DTNBA DTNBIO#
+redmaple Y Y Y 
+sugarmaple Y Y Y   
+yellowpop Y Y Y               
+blackcherry Y Y Y                          
+amelm Y Y Y                     
+whiteash Y Y Y        
+whiteoak Y Y Y    
+americanbeech Y Y Y   
+sassafras Y Y Y               
+northredoak Y Y Y               
+blackoak Y Y Y                  
+shagbark Y Y Y           
+chestoak Y Y Y         
+bigtoothaspen Y Y Y                
+blackgum Y Y Y                                                          
+slipperyelm Y Y Y                
+blackwalnut Y Y Y                      
+pignut Y Y Y            
+sycamore Y Y Y            
+virginiapine Y Y Y  
+treeheaven Y Y Y                        
+mockernut Y Y Y               
+ambasswood Y Y Y                     
+scarletoak Y Y Y                         
+yellowbuckeye Y Y Y                         
+hemlock Y Y Y 
+pitchpine Y Y Y                         
+southredoak Y Y Y               
+pseudosp Y Y Y                     
+bhoneysuckle Y Y Y 
+
+#V - Mortality by age cohort for each species#
+N
+
+#Fire Fuel Harvest Succession#
+Y Y Y Y
+
+#DTN DTNBA DTNBIO#
+redmaple Y Y Y  1 10-20
+sugarmaple Y Y Y  1 10-20 
+yellowpop Y Y Y 1 10-20              
+blackcherry Y Y Y 1 10-20                          
+amelm Y Y Y 1 10-20                    
+whiteash Y Y Y 1 10-20       
+whiteoak Y Y Y 1 10-20   
+americanbeech Y Y Y 1 10-20  
+sassafras Y Y Y 1 10-20              
+northredoak Y Y Y 1 10-20              
+blackoak Y Y Y 1 10-20                 
+shagbark Y Y Y 1 10-20          
+chestoak Y Y Y 1 10-20        
+bigtoothaspen Y Y Y 1 10-20               
+blackgum Y Y Y 1 10-20                                                          
+slipperyelm Y Y Y 1 10-20               
+blackwalnut Y Y Y 1 10-20                     
+pignut Y Y Y 1 10-20           
+sycamore Y Y Y 1 10-20           
+virginiapine Y Y Y 1 10-20 
+treeheaven Y Y Y 1 10-20                       
+mockernut Y Y Y 1 10-20              
+ambasswood Y Y Y 1 10-20                    
+scarletoak Y Y Y 1 10-20                        
+yellowbuckeye Y Y Y 1 10-20                        
+hemlock Y Y Y 1 10-20
+pitchpine Y Y Y 1 10-20                        
+southredoak Y Y Y 1 10-20              
+pseudosp Y Y Y 1 10-20                    
+bhoneysuckle Y Y Y 1 10-20
+  

@@ -1,0 +1,108 @@
+# TPA BA BIO IV SEEDS RD #     
+ShortleafPine  Y Y N N N N
+SlashPine      Y Y N N N N
+LongleafPine   Y Y N N N N
+LoblollyPine   Y Y N N N N
+BaldCypress    Y Y N N N N
+RedMaple       Y Y N N N N
+SugarMaple     Y Y N N N N
+MockHickory    Y Y N N N N
+SugarBerry     Y Y N N N N
+WhiteAsh       Y Y N N N N
+GreenAsh       Y Y N N N N
+SweetGum       Y Y N N N N
+YellowPoplar   Y Y N N N N
+WaterTupelo    Y Y N N N N
+BlackGum       Y Y N N N N
+SwampTupelo    Y Y N N N N
+BlackCherry    Y Y N N N N
+WhiteOak       Y Y N N N N
+SouthernRedOak Y Y N N N N
+CherryBarkOak  Y Y N N N N
+LaurelOak      Y Y N N N N
+OvercupOak     Y Y N N N N
+WaterOak       Y Y N N N N
+WillowOak      Y Y N N N N
+NorthernRedOak Y Y N N N N
+PostOak        Y Y N N N N
+BlackOak       Y Y N N N N
+WingedElm      Y Y N N N N
+AmericanElm    Y Y N N N N
+PseudoSPP      Y Y N N N N
+
+       
+ #TPA BA Bio Car RD#      
+Total  Y Y N N Y      
+           
+N #II. select species to attibutes to output for specific age cohorts#
+           
+# TPA BA Bio IV#       
+
+ShortleafPine  Y Y N N 
+SlashPine      Y Y N N 
+LongleafPine   Y Y N N 
+LoblollyPine   Y Y N N 
+BaldCypress    Y Y N N 
+RedMaple       Y Y N N 
+SugarMaple     Y Y N N 
+MockHickory    Y Y N N 
+SugarBerry     Y Y N N 
+WhiteAsh       Y Y N N 
+GreenAsh       Y Y N N 
+SweetGum       Y Y N N 
+YellowPoplar   Y Y N N 
+WaterTupelo    Y Y N N 
+BlackGum       Y Y N N 
+SwampTupelo    Y Y N N 
+BlackCherry    Y Y N N 
+WhiteOak       Y Y N N 
+SouthernRedOak Y Y N N 
+CherryBarkOak  Y Y N N 
+LaurelOak      Y Y N N 
+OvercupOak     Y Y N N 
+WaterOak       Y Y N N 
+WillowOak      Y Y N N 
+NorthernRedOak Y Y N N 
+PostOak        Y Y N N 
+BlackOak       Y Y N N 
+WingedElm      Y Y N N 
+AmericanElm    Y Y N N 
+PseudoSPP      Y Y N N 
+           
+#TPA BA Bio Car RD#       
+Total Y Y N N N      
+           
+#select specific age cohorts to output#      
+ShortleafPine  1 1-150
+SlashPine      1 1-150
+LongleafPine   1 1-150
+LoblollyPine   1 1-150
+BaldCypress    1 1-150
+RedMaple       1 1-150
+SugarMaple     1 1-150
+MockHickory    1 1-150
+SugarBerry     1 1-150
+WhiteAsh       1 1-150
+GreenAsh       1 1-150
+SweetGum       1 1-150
+YellowPoplar   1 1-150
+WaterTupelo    1 1-150
+BlackGum       1 1-150
+SwampTupelo    1 1-150
+BlackCherry    1 1-150
+WhiteOak       1 1-150
+SouthernRedOak 1 1-150
+CherryBarkOak  1 1-150
+LaurelOak      1 1-150
+OvercupOak     1 1-150
+WaterOak       1 1-150
+WillowOak      1 1-150
+NorthernRedOak 1 1-150
+PostOak        1 1-150
+BlackOak       1 1-150
+WingedElm      1 1-150
+AmericanElm    1 1-150
+PseudoSPP      1 1-150
+
+#III. output age distribution for each species#    
+N/A       

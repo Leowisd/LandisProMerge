@@ -1,0 +1,22 @@
+Landis Scenario.txt
+
+Landis version:		Pro 1.0
+Output dir:		.\CurrentNoHarvest2
+specAttrFile:		.\CurrentNoHarvest2\SpeciesAtribute6.dat
+landUnitFile:		.\CurrentNoHarvest2\CurLandtype.dat
+siteInFile:		.\CurrentNoHarvest2\(null)
+
+MAIN PARAMETERS:----------------------------------------
+Random:			repeatable (1)
+numIter:	6
+Map size:		Row: 349 x Col: 945
+
+
+DLLs----------------------------------------
+Fire ..............is turned on 
+
+BDA ....................  off
+Wind .................... off 
+Harvest ..................off 
+Fuel .................... off
+Fuel management ..........off 

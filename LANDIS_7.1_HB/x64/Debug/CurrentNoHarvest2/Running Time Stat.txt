@@ -1,0 +1,37 @@
+Initilization took: 71 seconds
+
+Year: 1:
+
+Year: 2:
+Processing fire: 2 seconds
+Processing succession: 56 seconds
+
+Year: 3:
+
+Year: 4:
+Processing fire: 2 seconds
+Processing succession: 56 seconds
+
+Year: 5:
+
+Year: 6:
+Processing fire: 2 seconds
+Processing succession: 57 seconds
+
+Year: 7:
+
+Year: 8:
+Processing fire: 2 seconds
+Processing succession: 61 seconds
+
+Year: 9:
+
+Year: 10:
+Processing fire: 3 seconds
+Processing succession: 62 seconds
+
+Year: 11:
+
+Year: 12:
+Processing fire: 2 seconds
+Processing succession: 64 seconds

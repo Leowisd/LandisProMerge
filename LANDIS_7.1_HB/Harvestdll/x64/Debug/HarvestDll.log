@@ -1,0 +1,57 @@
+﻿Build started 12/14/2017 4:00:05 PM.
+     1>Project "D:\HouBin\LANDIS_7.1_merged(after mem)\Harvestdll\HarvestDll.vcxproj" on node 5 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(D:\HouBin\LANDIS_7.1_merged(after mem)\Harvestdll\x64\Debug\HarvestDll.dll) does not match the Linker's OutputFile property value (D:\HouBin\LANDIS_7.1_merged(after mem)\x64\Debug\HarvestDll.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\x64\Debug\HarvestDll.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\GDAL\lib cairo.lib fontconfig.lib freetype2411.lib freexl.lib freexl_i.lib fribidi.lib cfitsio.lib clientlib.lib expat.lib gd.lib gdal_i.lib geos.lib giflib.lib harfbuzz.lib hdf5.lib hdf5_cpp.lib hdf5_hl.lib hdf5_hl_cpp.lib hdfdll.lib libecwj2.lib spatialite_i.lib ssleay32.lib szip.lib xdrdll.lib "xerces-c_2.lib" zdll.lib zlib.lib iconv.lib minizip.lib netcdf.lib openjp2.lib "pixman-1.lib" poppler.lib proj.lib proj_i.lib spatialite.lib libcurl_imp.lib libtiff_i.lib libxml2.lib mapserver.lib mfhdfdll.lib libeay32.lib libmysql.lib libpng.lib libpq.lib libpqdll.lib libsvg.lib "libsvg-cairo.lib" libfcgi.lib libkmldom.lib libkmlengine.lib libkmlregionator.lib libkmlxsd.lib libjbig.lib libjpeg.lib libkea.lib libkmlbase.lib libkmlconvenience.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\..\output/HarvestDll.pdb" /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\..\output/HarvestDll.lib" /MACHINE:X64 /DLL .\Debug/BoundedPocketStandHarvester.obj
+         .\Debug/CohortRemovalMask.obj
+         .\Debug/EconomicImportanceRank.obj
+         .\Debug/FillingStandHarvester.obj
+         .\Debug/GlobalFunctions.obj
+         .\Debug/GroupSelectionRegime.obj
+         .\Debug/GroupSelectionRegime70.obj
+         .\Debug/HarvestEvent.obj
+         .\Debug/HarvestEventQueue.obj
+         .\Debug/HarvestPath.obj
+         .\Debug/HarvestPathIterator.obj
+         .\Debug/HarvestRegime.obj
+         .\Debug/HarvestReport.obj
+         .\Debug/HarvestSites.obj
+         .\Debug/HarvestVolumeFittingRegime.obj
+         .\Debug/IntArray.obj
+         .\Debug/ManagementArea.obj
+         .\Debug/ManagementAreaIterator.obj
+         .\Debug/ManagementAreas.obj
+         .\Debug/MultiplePocketStandHarvester.obj
+         .\Debug/OldestRank.obj
+         .\Debug/OnePassStandBasedRegime.obj
+         .\Debug/OnePassStandFillingRegime.obj
+         .\Debug/OnePassStandSpreadingRegime.obj
+         .\Debug/PeriodicStandFillingRegime.obj
+         .\Debug/PeriodicTwoPassStandFillingRegime.obj
+         .\Debug/POINT.obj
+         .\Debug/RandomRank.obj
+         .\Debug/RankbyStocking.obj
+         .\Debug/RankbyVolume.obj
+         .\Debug/RegulateDistributionRank.obj
+         .\Debug/RelativeOldestRank.obj
+         .\Debug/RepeatingTwoPassStandFillingRegime.obj
+         .\Debug/SiteHarvester.obj
+         .\Debug/SiteRemovalMask.obj
+         .\Debug/Stand.obj
+         .\Debug/StandHarvester.obj
+         .\Debug/StandIterator.obj
+         .\Debug/StandRankingAlgorithm.obj
+         .\Debug/Stands.obj
+         .\Debug/StockingCuttingRegime.obj
+         .\Debug/TwoPassStandBasedRegime.obj
+         .\Debug/TwoPassStandFillingRegime.obj
+         .\Debug/TwoPassStandSpreadingRegime.obj
+         .\Debug/UnboundedPocketStandHarvester.obj
+         "D:\HouBin\LANDIS_7.1_merged(after mem)\output\LandisProCore.lib"
+            Creating library .\..\output/HarvestDll.lib and object .\..\output/HarvestDll.exp
+         HarvestDll.vcxproj -> D:\HouBin\LANDIS_7.1_merged(after mem)\Harvestdll\x64\Debug\HarvestDll.dll
+     1>Done Building Project "D:\HouBin\LANDIS_7.1_merged(after mem)\Harvestdll\HarvestDll.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.83

@@ -1,0 +1,32 @@
+﻿Build started 12/14/2017 4:05:58 PM.
+     1>Project "D:\HouBin\LANDIS_7.1_merged(after mem)\Landis40App\Landis40App.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I..\public /I..\GDAL\inclide /I..\GDAL\lib /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W2 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0710 /D _MBCS /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /FR"x64\Debug\\" /Gd /TP /errorReport:prompt source\LANDIS.CPP
+         LANDIS.CPP
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\atlmfc\include\afx.h(33) : see declaration of 'MBCS_Support_Deprecated_In_MFC'
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(D:\HouBin\LANDIS_7.1_merged(after mem)\Landis40App\x64\Debug\Landis70ProApp.exe) does not match the Linker's OutputFile property value (D:\HouBin\LANDIS_7.1_merged(after mem)\x64\Debug\Landis70ProApp.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\x64\Debug\Landis70ProApp.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\GDAL\lib /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\\VC\lib\amd64" /LIBPATH:"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Lib\x64" /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\\VC\atlmfc\lib\amd64" cairo.lib fontconfig.lib freetype2411.lib freexl.lib freexl_i.lib fribidi.lib cfitsio.lib clientlib.lib expat.lib gd.lib gdal_i.lib geos.lib giflib.lib harfbuzz.lib hdf5.lib hdf5_cpp.lib hdf5_hl.lib hdf5_hl_cpp.lib hdfdll.lib libecwj2.lib spatialite_i.lib ssleay32.lib szip.lib xdrdll.lib "xerces-c_2.lib" zdll.lib zlib.lib iconv.lib minizip.lib netcdf.lib openjp2.lib "pixman-1.lib" poppler.lib proj.lib proj_i.lib spatialite.lib libcurl_imp.lib libtiff_i.lib libxml2.lib mapserver.lib mfhdfdll.lib libeay32.lib libmysql.lib libpng.lib libpq.lib libpqdll.lib libsvg.lib "libsvg-cairo.lib" libfcgi.lib libkmldom.lib libkmlengine.lib libkmlregionator.lib libkmlxsd.lib libjbig.lib libjpeg.lib libkea.lib libkmlbase.lib libkmlconvenience.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\..\output/LandisProApp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"x64\Debug\Landis70ProApp.lib" /MACHINE:X64 .\Debug/IO.obj
+         .\Debug/LANDIS.obj
+         .\Debug/PARAMS.obj
+         .\Debug/PDP.obj
+         .\Debug/RECLASS.obj
+         .\Debug/RECLASS2.obj
+         .\Debug/RECLASS3.obj
+         "D:\HouBin\LANDIS_7.1_merged(after mem)\output\BDADll.lib"
+         "D:\HouBin\LANDIS_7.1_merged(after mem)\output\FireDll.lib"
+         "D:\HouBin\LANDIS_7.1_merged(after mem)\output\FuelDll.lib"
+         "D:\HouBin\LANDIS_7.1_merged(after mem)\output\HarvestDll.lib"
+         "D:\HouBin\LANDIS_7.1_merged(after mem)\output\LandisProCore.lib"
+         "D:\HouBin\LANDIS_7.1_merged(after mem)\output\WindDll.lib"
+            Creating library x64\Debug\Landis70ProApp.lib and object x64\Debug\Landis70ProApp.exp
+         Landis40App.vcxproj -> D:\HouBin\LANDIS_7.1_merged(after mem)\Landis40App\x64\Debug\Landis70ProApp.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"x64\Debug\Landis70ProApp.bsc" x64\Debug\IO.sbr x64\Debug\LANDIS.sbr x64\Debug\PARAMS.sbr x64\Debug\PDP.sbr x64\Debug\RECLASS.sbr x64\Debug\RECLASS2.sbr x64\Debug\RECLASS3.sbr
+     1>Done Building Project "D:\HouBin\LANDIS_7.1_merged(after mem)\Landis40App\Landis40App.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.16

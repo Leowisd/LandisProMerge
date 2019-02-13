@@ -1,0 +1,36 @@
+./BDADll/source/BDASites.cpp:35:	site->numofsites=i*j;
+./BDADll/source/BDASites.cpp:147:	printf("|%d \n",site->numofsites);
+./BDADll/source/BDASites.cpp:249:			map[x]->numofsites++;
+./BDADll/source/BDASites.cpp:266:			temp->numofsites=1;
+./BDADll/source/BDASites.cpp:396:	if(temp->numofsites==1)
+./BDADll/source/BDASites.cpp:423:	else if(temp->numofsites<=0)
+./BDADll/source/BDASites.cpp:429:			temp->numofsites--;
+./FireDll/source/FireSites.cpp:70:	temp.numofsites = i * j;
+./FireDll/source/FireSites.cpp:221:	if (site1.DEM == site2.DEM && site1.FRUIndex == site2.FRUIndex && site1.numofsites == site2.numofsites)
+./FireDll/source/FireSites.cpp:266:		map[x].numofsites++;
+./FireDll/source/FireSites.cpp:275:		temp.numofsites=1;
+./FireDll/source/FireSites.cpp:434:	if(temp.numofsites==1)
+./FireDll/source/FireSites.cpp:451:	else if(temp.numofsites<=0)
+./FireDll/source/FireSites.cpp:454:		temp.numofsites--;
+./FuelDll/source/FuelSites.cpp:217:	site->numofsites=row*col;
+./FuelDll/source/FuelSites.cpp:2454:			map[x]->numofsites++;
+./FuelDll/source/FuelSites.cpp:2474:			temp->numofsites=1;
+./FuelDll/source/FuelSites.cpp:2722:	if(temp->numofsites==1)
+./FuelDll/source/FuelSites.cpp:2758:	else if(temp->numofsites<=0)
+./FuelDll/source/FuelSites.cpp:2770:			temp->numofsites--;
+./Harvestdll/source/HarvestSites.cpp:671:			site->numofsites = r*c;
+./Harvestdll/source/HarvestSites.cpp:687:			map[x]->numofsites = r*c;*/
+./Harvestdll/source/HarvestSites.cpp:1201:			map[x]->numofsites++;
+./Harvestdll/source/HarvestSites.cpp:1215:			temp->numofsites=1;
+./Harvestdll/source/HarvestSites.cpp:1458:	if(temp->numofsites==1)
+./Harvestdll/source/HarvestSites.cpp:1494:	else if(temp->numofsites<=0)
+./Harvestdll/source/HarvestSites.cpp:1507:			temp->numofsites--;
+./Harvestdll/source/HarvestSites.cpp:1511:	//sitetouse->numofsites=1;
+./Harvestdll/source/HarvestSites.cpp:1595:	numofsites=1;
+./Landis40App/source/IO.CPP:2083:				sites.SortedIndex.at(combineMatrix[coverType])->numofsites++;
+./Landis40App/source/IO.CPP:2186:					sites.SortedIndex.at(combineMatrix[coverType])->numofsites++;
+./Landis40App/source/IO.CPP:2192:					sites.SortedIndex.at(combineMatrix[coverType])->numofsites++;
+./Landis40Core/source/SITE.CPP:27:{ numofsites = 0; }
+./Landis40Core/source/SITE.CPP:31:{ numofsites = 0; }
+./Landis40Core/source/SITES.CPP:4023:		map[x]->numofsites++;
+./Landis40Core/source/SITES.CPP:4031:		temp->numofsites = 1;

@@ -1,0 +1,53 @@
+#I. select species and attributes to output for all age cohorts#            
+# TPA BA BIO IV SEEDS GSO #  
+whiteoak    N N N N N N
+ShortPine   N N N N N N     
+Blackoak    N N N N N N     
+PostOak     N N N N N N     
+ScarletOak  N N N N N N     
+RedCedar    N N N N N N     
+northernRO  N N N N N N     
+MockHick    N N N N N N  
+SugarMaple  N N N N N N     
+redmaple    N N N N N N 
+Blackcherry N N N N N N
+PseudoSpp   N N N N N N     
+           
+#TPA BA Bio Car GSO#      
+Total  N N N N N      
+           
+N #II. select species to attibutes to output for specific age cohorts#
+           
+# TPA BA Bio IV#       
+whiteoak       N N N N   
+ShortPine      N N N N    
+Blackoak       N N N N     
+PostOak        N N N N    
+ScarletOak     N N N N     
+RedCedar       N N N N     
+northernRO     N N N N     
+MockHick       N N N N    
+SugarMaple     N N N N     
+redmaple       N N N N     
+Blackcherry    N N N N    
+PseudoSpp      N N N N 
+    
+#TPA BA Bio Car RD#       
+Total Y Y Y N N      
+           
+#select specific age cohorts to output#      
+whiteoak 0  
+ShortPine 0   
+Blackoak 0     
+PostOak 0    
+ScarletOak 0     
+RedCedar 0     
+northernRO 0     
+MockHick 0    
+SugarMaple 0     
+redmaple 0     
+Blackcherry 0    
+PseudoSpp 0
+         
+#III. output age distribution for each species#    
+N/A          

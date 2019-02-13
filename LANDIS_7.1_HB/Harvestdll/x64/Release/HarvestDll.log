@@ -1,0 +1,10 @@
+﻿Build started 2/1/2018 3:08:41 PM.
+     1>Project "D:\HouBin\LANDIS_7.1_merged(after tracking flag)\Harvestdll\HarvestDll.vcxproj" on node 5 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(D:\HouBin\LANDIS_7.1_merged(after tracking flag)\Harvestdll\x64\Release\HarvestDll.dll) does not match the Linker's OutputFile property value (D:\HouBin\LANDIS_7.1_merged(after tracking flag)\x64\Release\HarvestDll.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         HarvestDll.vcxproj -> D:\HouBin\LANDIS_7.1_merged(after tracking flag)\Harvestdll\x64\Release\HarvestDll.dll
+     1>Done Building Project "D:\HouBin\LANDIS_7.1_merged(after tracking flag)\Harvestdll\HarvestDll.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15

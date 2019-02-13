@@ -1,0 +1,1920 @@
+PRESCRIBEDBURNING   # EVENT LABEL #
+1   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+4  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+2   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+3   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+4   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+5   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+6   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+7   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+8   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+9   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+10   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+11   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+12   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+13   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+14   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+15   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+16   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+17   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+18   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+19   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+20   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+21   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+22   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+23   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+24   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+25   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+26   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+27   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+28   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+29   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+30   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+31   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+32   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+33   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+34   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+35   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+36   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+37   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+38   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+39   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+40   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+41   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+42   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+43   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+44   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+45   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+46   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+47   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+48   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+49   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+50   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+51   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+52   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+53   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+54   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+55   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+56   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+57  # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+58   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+59   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+60   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+61   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+62   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+63   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+64  # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+65   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+66   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+67   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+68   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+69   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+70   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+71   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+72   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+73  # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+74   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+75   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+76   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+77   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+78   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+79   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+80   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+81  # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+82   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+83  # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+84   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+85   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+86   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+87   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+88   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+89   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+90   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+91   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+92   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+93   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+94   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+95   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+96   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+97   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+98   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+99   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+100   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+101   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+102   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+103   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+104   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+105   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+106   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+107   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+108   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+109   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+110   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+111   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+112   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+113   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+114   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+115   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+116   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+117   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+118   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+119   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+PRESCRIBEDBURNING   # EVENT LABEL #
+120   # management area identifier   #
+3   # rank algorithm (0: descending, 1: ascending, 3: random)  #
+2  # initial decade   #
+100  # final decade    #
+4  # reentry interval  #
+0.6  # proportion of management area for treatment #
+0   # minimum potential fire risk for management #
+
+#Fuel treatment mask #
+#fine fuel load before management #   #  0    1     2     3     4     5#  
+#fine fuel loads after management #       0    1     1     1     1     1
+#Coarse fuel load before management  #   #   0    1     2     3     4     5# 
+#Coarse fuel loads after management      #    0    1     2     2     3     5
+
+
+
