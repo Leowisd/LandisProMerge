@@ -59,7 +59,6 @@ void timestep::getSpecNum(unsigned int spec_num)
 
 
 
-
 void timestep::Setlongevity(int i, unsigned int num)
 {
 	if (i > SpecNum)

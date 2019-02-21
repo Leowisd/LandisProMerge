@@ -114,7 +114,6 @@ void HarvestPassInit(SITES* psi, int isp, char* stroutputdir, char* strHarvestIn
 
 	m_pPDP = pdp;
 
-	
 
 	sprintf(outputdir, "%s/%s", stroutputdir, "Harvest");
 

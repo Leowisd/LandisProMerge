@@ -16,7 +16,6 @@ SPECIE::SPECIE()
 }
 
 
-
 SPECIE::~SPECIE()	{}
 
 

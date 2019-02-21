@@ -7,6 +7,7 @@
 #include "PDP.H"
 
 
+
 PDP::PDP(int mode, int col, int row, int BDANo, int SpecNum, int interval_num, int trackflag)
 {
 	set_parameters(mode, col, row, BDANo, SpecNum, interval_num, trackflag);

@@ -24,6 +24,8 @@ SPECIESATTRS *SPECIES::speciesAttrs = NULL;
 
 
 
+
+
 //This constructor can only be used on the first creation instance of class SPECIES.  
 //It sets the number of different varieties of species in the model.
 SPECIES::SPECIES(int n)

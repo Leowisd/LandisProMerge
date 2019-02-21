@@ -150,7 +150,6 @@ int LANDUNITS::number() { return numLU; }
 
 
 
-
 void LANDUNITS::initiateVariableVector(int NumofIter, int timestep_in, int num, int flag)
 {
 	timestep = timestep_in;

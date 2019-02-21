@@ -12,7 +12,6 @@
 #include "landu.h"
 
 
-
 LANDUNIT::LANDUNIT()
 {
 	name = NULL;

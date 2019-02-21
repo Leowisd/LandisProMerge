@@ -23,7 +23,6 @@ static int charCommentFlag = 0;
 
 
 
-
 // Given a string, if it is part of comment return TRUE, otherwise FALSE
 int isStringComment(char *s)
 {

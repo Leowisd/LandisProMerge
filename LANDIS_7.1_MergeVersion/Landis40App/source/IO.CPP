@@ -149,6 +149,7 @@ void SetAgeDistoutputBuffer(int type, int specIndex, int ageIndex, int yearIndex
 
 
 
+
 double GetAgeDistoutputBuffer(int type, int specIndex, int ageIndex, int yearIndex)
 {
 	const int dimension = 500 / sites.TimeStep;

@@ -468,7 +468,7 @@ int main(int argc, char *argv[])
 
 	int numbOfIter, snr, snc, specAtNum;
 
-	int envOn = 0, reclYear = 0;
+	int numSitesActive, envOn = 0, reclYear = 0;
 	
 	GDALDataset  *simgFile, *ltimgFile;
 
@@ -496,6 +496,24 @@ int main(int argc, char *argv[])
 
 	
 	FILE *infile;
+
+	////////////////////////////// Merge Part ////////////////////////////
+	if ((argc != 2) && (argc != 3) && (argc != 4))
+	{
+		argHelp();
+		exit(255);
+	}
+	if ((strcmp(argv[1], "-h") == 0) || (strcmp(argv[1], "-H") == 0))
+	{
+		argHelp();
+		exit(255);
+	}
+	else if ((strcmp(argv[1], "-p") == 0) || (strcmp(argv[1], "-P") == 0))
+	{
+		help();
+		exit(255);
+	}
+	//////////////////////////////////////////////////////////////////////
 
 	if ((strcmp(argv[1], "-e") == 0) || (strcmp(argv[1], "-E") == 0))
 	{
@@ -560,10 +578,14 @@ int main(int argc, char *argv[])
 	for (int x = 0; x < 5; x++)
 		freq[x] = 1;
 
-	if ((gDLLMode & G_HARVEST) != 0)
-		freq[5] = 1;
-
-
+	///////////////// Merge Part /////////////////
+	// if ((gDLLMode & G_HARVEST) != 0)
+	// 	freq[5] = 1;
+	if ((gDLLMode & G_HARVEST) != 0)		
+		for (x = 0; x < 6; x++) freq[x] = 1;
+	else
+		for (x = 0; x < 5; x++) freq[x] = 1;
+	//////////////////////////////////////////////
 
 	if (gDLLMode & G_BDA)
 		printf("BDA ");
@@ -737,6 +759,10 @@ int main(int argc, char *argv[])
 	if ((gDLLMode & G_FIRE) != 0)
 	{
 		printf("Start fire (version 4.3) initialization \n");
+		
+		/////////////// Merge Part ///////////////
+		fflush(stdout);
+		//////////////////////////////////////////
 
 		typedef CFIRE* (*GetFIRETYPE)(char*, int, SITES*, LANDUNITS*, SPECIESATTRS*, PDP*, int, char*, int);
 
@@ -756,6 +782,10 @@ int main(int argc, char *argv[])
 
 		printf("Finish Fire initiliation \n");
 		
+		/////////////// Merge Part ///////////////
+		fflush(stdout);
+		//////////////////////////////////////////
+
 		sites.Fire70outputdim();
 	}
 
@@ -771,6 +801,10 @@ int main(int argc, char *argv[])
 	snc = sites.numColumns();
 
 	specAtNum = speciesAttrs.number();
+
+	////////////////// Merge Part /////////////////
+	numSitesActive = sites.numActive();
+	///////////////////////////////////////////////
 
 	numbOfIter = parameters.numIter;
 
@@ -865,6 +899,7 @@ int main(int argc, char *argv[])
 	}
 
 	srand(parameters.randSeed);
+
 
 
 
@@ -1183,9 +1218,12 @@ int main(int argc, char *argv[])
 			putOutput_AgeDistStat(i_d_timestep);
 		}
 
-		// if ((gDLLMode & G_FUEL) != 0 && i % sites.TimeStep_Fuel == 0)
-		// 	FuelputFuelOutput(i / sites.TimeStep_Fuel, parameters.outputDir, parameters.cellSize, wAdfGeoTransform);
+		///////////////////////////////////////////// Merge Part //////////////////////////////////
+		if ((gDLLMode & G_FUEL) != 0 && i%sites.TimeStep_Fuel == 0)
+			FuelputFuelOutput(i / sites.TimeStep_Fuel, parameters.outputDir, parameters.cellSize);
+		///////////////////////////////////////////////////////////////////////////////////////////
 	}
+
 
 
 

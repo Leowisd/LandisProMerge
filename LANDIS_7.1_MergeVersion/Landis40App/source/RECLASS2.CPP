@@ -15,7 +15,6 @@
 
 
 
-
 static int maximum[MAX_RECLASS];   //Maximum table.
 
 static int lc_bool[MAX_RECLASS][MAX_RECLASS];  //Boolean table of class values.

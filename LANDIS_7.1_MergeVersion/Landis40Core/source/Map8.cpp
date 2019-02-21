@@ -16,7 +16,6 @@
 
 //#include <vld.h>
 
-
 MAP8::MAP8()
 {
 	strcpy(title, "NO TITLE");
