@@ -126,8 +126,6 @@ int UnboundedPocketStandHarvester::harvest() {
 
 }
 
-
-
 void UnboundedPocketStandHarvester::rankNeighborSite(int r, int c, int& bestRank, LDPOINT& bestSite) {
 
     int rank;

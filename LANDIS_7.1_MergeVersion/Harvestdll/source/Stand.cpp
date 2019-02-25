@@ -42,8 +42,6 @@ Stand::Stand() {
 
 }
 
-
-
 /* inline */ void Stand::setUpdateFlag() {
 
     itsUpdateFlag = 1;

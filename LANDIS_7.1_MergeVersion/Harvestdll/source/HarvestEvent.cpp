@@ -28,6 +28,7 @@ HarvestEvent::~HarvestEvent() {
 
 
 
+
 /* 22-OCT-99 */
 
 void HarvestEvent::setSequentialId(int someId) {

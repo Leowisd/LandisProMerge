@@ -24,8 +24,6 @@
 
 #include "StandIterator.h"
 
-
-
 StockingCuttingRegime::StockingCuttingRegime() {
 
     itsState = START;

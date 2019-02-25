@@ -12,8 +12,6 @@
 
 #include "ManagementArea.h"
 
-
-
 ManagementArea::ManagementArea() {
 
     itsId = 0;

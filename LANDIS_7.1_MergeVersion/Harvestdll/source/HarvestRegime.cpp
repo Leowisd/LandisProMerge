@@ -1,7 +1,5 @@
 //No harvest flag for stand.  Only stand age is used in rank #2
 
-
-
 #include <stdio.h>
 
 #include "error.h"
