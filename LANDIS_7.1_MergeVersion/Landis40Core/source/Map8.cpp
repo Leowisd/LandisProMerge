@@ -354,7 +354,7 @@ void MAP8::copy(const MAP8 &n)
 	for (int i = 0; i < lcsize; i++)
 	{
 		data[i] = n.data[i];
-		data_bio[i] = n.data_bio[i];
+		data_bio[i] = n.data_bio[i]; // some changes here
 	}
 }
 
@@ -379,7 +379,7 @@ MAP8& MAP8::operator=(const MAP8 &n)
 	for (int i = 0; i < lcsize; i++)
 	{
 		data[i] = n.data[i];
-		data_bio[i] = n.data_bio[i];
+		data_bio[i] = n.data_bio[i]; // some changes here
 	}
 
 	// for(int i=0; i<32; i++)

@@ -143,7 +143,10 @@ HINSTANCE	  gLibFire;
 
 vector<string> SEC_landtypefiles;
 vector<string> SEC_gisfiles;
+
+// Some chnages here
 vector<string> Growthratesfiles;		//add by houbin 3/9/2017
+//
 
 int freq[6];
 
@@ -166,10 +169,13 @@ char reMethods[MAX_RECLASS][80], ageMaps[MAX_SPECIES][80];
 
 int gDLLMode;
 
-
+// Some changes here
+// add attritubes to create mult-threads
 // static const int max_thread_num = omp_get_max_threads() - 1;
 static const int max_thread_num = omp_get_max_threads();
 int* gl_cpuid = new int [max_thread_num]();
+//
+
 
 void putHarvestOutput(int itr, double wAdfGeoTransform[], int trackflag)
 {
@@ -193,6 +199,8 @@ void putHarvestOutput(int itr, double wAdfGeoTransform[], int trackflag)
 		{
 			if (sites.OutputHarvestFlag == 1)
 			{
+				// Some changes here
+				// different grow growth
 				for (int i = 0; i < sites.specNum; i++)
 				{
 					if (sites.GetOutputModuleFlagArray(i, DTNBA))
@@ -219,6 +227,8 @@ void putHarvestOutput(int itr, double wAdfGeoTransform[], int trackflag)
 			{
 				for (int i = 0; i < sites.specNum; i++)
 				{
+					// Some changes here
+					// different grow growth
 					if (sites.GetOutputAgeRangeModuleFlagArray(i, DTN))
 					{
 						for (int j = 1; j <= sites.GetOutputAgeRangeModuleFlagArray(i, COUNT); j++)
@@ -272,6 +282,8 @@ void putHarvestOutput(int itr, double wAdfGeoTransform[], int trackflag)
 			{
 				for (int i = 0; i < sites.specNum; i++)
 				{
+					// Some changes here
+					// different grow growth
 					if (sites.GetOutputModuleFlagArray(i, DTNBA))
 					{
 						sprintf(str1, "%s/%s/%s/%s_BACut%d.img", parameters.outputDir, "Harvest", "DTNBA", speciesAttrs(i + 1)->name, parameters.numIter* sites.TimeStep_Harvest);
@@ -348,7 +360,201 @@ void putHarvestOutput(int itr, double wAdfGeoTransform[], int trackflag)
 }
 
 
+// Some changes here
+// maybe useless
+/*
+void updateLandtypeMap8(FILE * ltMapFile)
+{
 
+	unsigned char c;
+
+	unsigned long dest[64];
+
+	int
+
+		nCols,
+
+		nRows,
+
+		numRead,
+
+		coverType,
+
+		b16or8;
+
+	SITE* s;
+
+	unsigned short		 intdata;
+
+	LDfread((char*)dest, 4, 32, ltMapFile);
+
+
+
+	if ((dest[1] & 0xff0000) == 0x020000)
+
+		b16or8 = 16;
+
+	else if ((dest[1] & 0xff0000) == 0)
+
+		b16or8 = 8;
+
+	else
+
+	{
+
+		b16or8 = -1;
+
+		errorSys("Error: IO: Landtype map is neither 16 bit or 8 bit.", STOP);
+
+	}
+
+#ifdef __UNIX__
+
+	ERDi4_c(&dest[4],nCols);
+
+	ERDi4_c(&dest[5],nRows);
+
+#else
+
+	nCols = dest[4];
+
+	nRows = dest[5];
+
+#endif
+
+	int xDim = sites.numColumns();
+
+	int yDim = sites.numRows();
+
+	if ((nCols != xDim) || (nRows != yDim))
+
+		errorSys("landtype map and species map do not match.", STOP);
+
+
+
+	if (b16or8 == 8)  //8 bit
+
+	{
+
+		for (int i = yDim; i > 0; i--)
+
+		{
+
+			for (int j = 1; j <= xDim; j++)
+
+			{
+
+				numRead = LDfread((char*)(&c), 1, 1, ltMapFile);
+
+				coverType = (int)c;
+
+				if ((numRead >= 0) && (coverType >= 0))
+
+				{
+
+					//s=sites(i,j); // comment By Qia Oct 10 2008
+
+					//<Add By Qia on Oct 10 2008>
+
+					sites.fillinLanduPt(i, j, landUnits(coverType));
+
+
+					//</Add By Qia on Oct 10 2008>
+
+					//		   s->lastWind=(short)s->landUnit->initialLastWind;  modified by Vera Dec. 30
+
+					//		 if ((gDLLMode & G_WIND && gDLLMode & G_BDA) || (gDLLMode & G_WIND && gDLLMode & G_FUEL))
+
+					// if (gDLLMode & G_WIND)
+
+					//	(ppdp->sTSLWind)[i][j] = (short)sites.locateLanduPt(i,j)->initialLastWind;
+
+					//original landis4.0: (ppdp->sTSLWind)[i][j] = (short)s->landUnit->initialLastWind;
+
+					//changed By Qia on Oct 13 2008
+
+
+
+					// 	   s->lastFire=(short)s->landUnit->initialLastFire;
+
+					//		 ppdp->sTSLFire[i][j] = 
+
+				}
+
+				else
+
+					errorSys("illegal landtype class found4.", STOP);
+
+			}
+
+		}
+
+	}
+
+	else if (b16or8 == 16)	//16 bit
+
+	{
+
+		for (int i = yDim; i > 0; i--)
+
+		{
+
+			for (int j = 1; j <= xDim; j++)
+
+			{
+
+				numRead = LDfread((char*)(&intdata), 2, 1, ltMapFile);
+
+				coverType = (int)intdata;
+
+				if ((numRead >= 0) && (coverType >= 0))
+
+				{
+
+					//s=sites(i,j);// comment By Qia Oct 10 2008
+
+					//s->landUnit=landUnits(coverType);// comment By Qia Oct 10 2008
+
+					//<Add By Qia on Oct 10 2008>
+
+					sites.fillinLanduPt(i, j, landUnits(coverType));
+
+
+					//</Add By Qia on Oct 10 2008>
+
+					//		   s->lastWind=(short)s->landUnit->initialLastWind;  modified by Vera Dec. 30
+
+					//		 if ((gDLLMode & G_WIND && gDLLMode & G_BDA) || (gDLLMode & G_WIND && gDLLMode & G_FUEL))
+
+					// if (gDLLMode & G_WIND)
+
+					//	(ppdp->sTSLWind)[i][j] = (short)sites.locateLanduPt(i,j)->initialLastWind;
+
+					//original landis4.0: (ppdp->sTSLWind)[i][j] = (short)s->landUnit->initialLastWind
+
+					//changed By Qia on Oct 13 2008
+
+					// 	   s->lastFire=(short)s->landUnit->initialLastFire;
+
+					//		 ppdp->sTSLFire[i][j] = 
+
+				}
+
+				else
+
+					errorSys("illegal landtype class found5.", STOP);
+
+			}
+
+		}
+
+	}
+
+
+
+}
+*/
+//
 
 
 
@@ -497,6 +703,7 @@ int main(int argc, char *argv[])
 	
 	FILE *infile;
 
+// Some changes here
 	////////////////////////////// Merge Part ////////////////////////////
 	if ((argc != 2) && (argc != 3) && (argc != 4))
 	{
@@ -578,6 +785,7 @@ int main(int argc, char *argv[])
 	for (int x = 0; x < 5; x++)
 		freq[x] = 1;
 
+	//Some changes here
 	///////////////// Merge Part /////////////////
 	// if ((gDLLMode & G_HARVEST) != 0)
 	// 	freq[5] = 1;
@@ -615,7 +823,8 @@ int main(int argc, char *argv[])
 	PDP pdp;
 	getInput(infile, freq, ageMaps, pdp, BDANo, wAdfGeoTransform);
 
-	
+	// Some changes here
+	// 
 	if (pdp.TrackFlag == 1)
 	{
 		char Succ_outputdir[200];
@@ -658,6 +867,7 @@ int main(int argc, char *argv[])
 		}
 
 	}
+	//
 
 	if ((gDLLMode & G_HARVEST) != 0)
 	{
@@ -812,7 +1022,8 @@ int main(int argc, char *argv[])
 	// sites.GetSeedDispersalProbability(parameters.SeedRainFile, parameters.SeedRainFlag);
 
 
-
+	// Some changes here
+	// Specie Growth Rates file
 	if (parameters.GrowthFlag == 0)
 	{
 		sites.GetSpeciesGrowthRates(parameters.GrowthFlagFile, parameters.GrowthFlag);
@@ -844,6 +1055,7 @@ int main(int argc, char *argv[])
 
 		sites.GetSpeciesGrowthRates(Growthratesfile, parameters.GrowthFlag);
 	}
+	//
 
 	// sites.GetSpeciesGrowthRates(parameters.GrowthFlagFile, parameters.GrowthFlag);
 
@@ -1152,7 +1364,8 @@ int main(int argc, char *argv[])
 				}
 			}
 
-
+			// Some changes here
+			// If has the growth rate file
 			if (parameters.GrowthFlag == 1)
 			{
 				const int index = i / sites.TimeStep;
@@ -1272,7 +1485,8 @@ void initiateRDofSite_Landis70(int snr, int snc) //bsl
 
 
 
-
+//Some changes here
+//initization mutil-threads
 unsigned int __stdcall Cal_SiteDynamics(void *p_this)
 {
 	SiteDynParmVec* param = static_cast<SiteDynParmVec*>(p_this);
@@ -1293,7 +1507,8 @@ unsigned int __stdcall Cal_SiteDynamics(void *p_this)
 }
 
 
-
+// Some changes here
+// multi-threads
 void startSiteDynamicsThread(SiteDynParmVec& param, HANDLE& lHandle)
 {
 	//if you use more than 64 logical cores, cpu_id need to be changed
@@ -1310,7 +1525,7 @@ void startSiteDynamicsThread(SiteDynParmVec& param, HANDLE& lHandle)
 
 
 
-
+// Some Changes here
 void init_cpu_id()
 {
 	for(int i=0; i<max_thread_num; i++)
@@ -1318,7 +1533,7 @@ void init_cpu_id()
 }
 
 
-
+// Some changes here
 //Processor affinity
 int get_cpu_id()
 {
@@ -1349,7 +1564,7 @@ int get_cpu_id()
 
 
 
-
+//Some changes here
 unsigned int __stdcall Distribute_seeds(void *p_this)
 {
 	DispersalParam param = *(static_cast<DispersalParam*>(p_this));
@@ -1363,6 +1578,7 @@ unsigned int __stdcall Distribute_seeds(void *p_this)
 
 
 
+// Some changes here
 void startDispersalThread(DispersalParam& param, HANDLE& lHandle)
 {
 	const unsigned long long cpu_id = param.cpu_id;
@@ -2034,7 +2250,7 @@ void singularLandisIteration(int itr, int snr, int snc, double wAdfGeoTransform[
 
 
 
-
+//Some changes here
 void Succesion_output_Mortality_bio_ba(int snr, int snc, int itr, PDP& pdp, double wAdfGeoTransform[])
 {
 	if (pdp.TrackFlag == 1)
